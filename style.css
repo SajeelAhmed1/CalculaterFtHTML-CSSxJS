@@ -1,0 +1,42 @@
+.calculate{
+    margin: 175px;
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 1%;
+    background: grey;
+}
+.display{
+    width: 98%;
+    height: 30px;
+    background: rgb(255, 255, 255);
+}
+.delete{
+    width: 100%;
+    background: orangered;
+}
+.operator1{
+    background: rgb(47, 53, 47);
+    width :120px;
+    height: 30px;
+    margin-top: 5px;
+}
+.numbers{
+    width: 120px;
+    height: 30px;
+    margin-top: 5px;
+    background: rgb(71, 80, 71);
+}
+.operator2{
+    background: rgb(236, 131, 10);
+    width :49%;
+    height: 30px;
+    margin-top: 5px;
+}
+.delete:hover{
+    background: rgb(250, 2, 2);
+    color: white;
+}
+.numbers:hover{
+    background-color: orange;
+}
